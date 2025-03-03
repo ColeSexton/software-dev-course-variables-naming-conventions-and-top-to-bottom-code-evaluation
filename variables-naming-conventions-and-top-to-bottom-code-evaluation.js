@@ -30,3 +30,13 @@ let c = 20;
 let d = a + " bought " + b + " items for $" + c + ".";
 
 console.log(d);
+
+let shopper = "Alice";
+let numberOfBananas= 5;
+let numberOfWatermelons= 6;
+let numberOfTangerines= 3;
+let totalPrice=20;
+let groceryTrip= shopper + " bought " + numberOfBananas+ " Bananas," + numberOfWatermelons + " Watermelons, and " + numberOfTangerines +" Tangerines" + " for a total price of $" + totalPrice +"."; 
+
+console.log(groceryTrip);
+
